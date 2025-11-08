@@ -10,8 +10,11 @@ Aplikasi menggunakan JTabbedPane untuk memisahkan data seperti Data Mahasiswa da
 📂 Memisahkan pengelolaan data menggunakan tab agar rapi dan mudah digunakan.
 
 🔗 Mengimplementasikan relasi tabel menggunakan JPA.
+
 📥 Mengimpor data CSV untuk mempercepat input.
+
 🧩 Menggabungkan OOP, GUI, dan database dalam satu sistem terpadu.
+
 🧠 Penjelasan Konsep Penting
 
 ## 1. 🔒 Persistence
@@ -22,6 +25,7 @@ JPA mempermudah pengelolaan data dengan ORM, sehingga kita bisa bekerja dengan o
 
 Komponen penting:
 🛠️ EntityManager (CRUD)
+
 ⚙️ Persistence Unit (konfigurasi database)
 
 ## 3. 🏷️ Entity & Anotasi
@@ -29,16 +33,22 @@ Entity = kelas Java yang mewakili tabel database.
 
 Anotasi penting:
 @Entity 🧱
+
 @Table 📋
+
 @Id 🔑
+
 @Column 📌
 
 ## 4. 🚀 EntityManager
 
 Digunakan untuk operasi:
 ➕ persist() tambah data
+
 ✏️ merge() update data
+
 ❌ remove() hapus data
+
 🔍 find() ambil data
 
 ## 5. 📊 Integrasi CSV
