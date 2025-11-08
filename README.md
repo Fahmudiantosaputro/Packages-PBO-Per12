@@ -1,7 +1,7 @@
 ## 📌 Ringkasan Proyek
 Proyek ini adalah aplikasi CRUD berbasis Java Swing yang terhubung ke database PostgreSQL menggunakan JPA. 
 
-Aplikasi menggunakan JTabbedPane untuk memisahkan data seperti Penerbit dan Buku, serta mendukung import CSV untuk input data otomatis.
+Aplikasi menggunakan JTabbedPane untuk memisahkan data seperti Data Mahasiswa dan Data Prodi, serta mendukung import CSV untuk input data otomatis.
 
 ## 🎯 Tujuan Utama
 
